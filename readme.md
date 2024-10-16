@@ -1,7 +1,3 @@
-Here’s a simple `README.md` for a Product CRUD operation using your provided `Product` model schema.
-
----
-
 # Product CRUD API
 
 This is a basic Product CRUD (Create, Read, Update, Delete) API built using Node.js, Express, and MongoDB (Mongoose). The API allows users to perform operations such as creating a new product, retrieving product details, updating product information, and deleting products.
